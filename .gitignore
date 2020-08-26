@@ -1,0 +1,5 @@
+#Служебные файлы системы сборки
+.vs/
+out/
+CMakeSettings.json
+CMakeLists.txt.user
